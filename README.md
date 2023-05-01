@@ -1,1 +1,1 @@
-# func_python
+kj# functional programming things in python.
